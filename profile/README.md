@@ -36,7 +36,7 @@ Find full documentation, courses and more:
 
 ## 👋 Connect with Wolfram
 
-<a href="https://www.linkedin.com/company/wolfram-research/"><img src="https://www.wolfram.com/connect/img/linkedin.png" alt="Wolfram Research on LinkedIn"></a>   <a href="https://www.facebook.com/wolframresearch"><img src="https://www.wolfram.com/connect/img/facebook.png" alt="Wolfram Research on Facebook"></a>   <a href="https://x.com/WolframResearch"><img src="https://www.wolfram.com/connect/img/x.png" alt="Wolfram Research on X"></a>   
+<a href="https://www.linkedin.com/company/wolfram-research/"><img src="https://www.wolfram.com/connect/img/linkedin.png" alt="Wolfram Research on LinkedIn" width="40" height="40"></a> &ensp; <a href="https://www.facebook.com/wolframresearch"><img src="https://www.wolfram.com/connect/img/facebook.png" alt="Wolfram Research on Facebook" width="40" height="40"></a> &ensp; <a href="https://x.com/WolframResearch"><img src="https://www.wolfram.com/connect/img/x.png" alt="Wolfram Research on X" width="40" height="40"></a>
 
 
 [More ways to connect](https://www.wolfram.com/connect/)

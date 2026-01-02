@@ -7,10 +7,11 @@ Founded by Stephen Wolfram in 1987, Wolfram Research is one of the world's most 
 [Wolfram's Official Website](https://www.wolfram.com/)
 
 ## 🌟 Products
-* [Mathematica](https://www.wolfram.com/mathematica/)
-* [Wolfram|One](https://www.wolfram.com/wolfram-one/)
+* [Mathematica](https://www.wolfram.com/mathematica/) & [Wolfram|One](https://www.wolfram.com/wolfram-one/) powered by
+  * [Wolfram Language](https://www.wolfram.com/language/)
+  * [Wolfram Notebooks](https://www.wolfram.com/notebooks/)  
+  * [Notebook Assistant + LLM Kit](https://www.wolfram.com/notebook-assistant-llm-kit/)
 * [Wolfram|Alpha](https://www.wolframalpha.com/)
-* [Notebook Assistant + LLM Kit](https://www.wolfram.com/notebook-assistant-llm-kit/)
 * [System Modeler](https://www.wolfram.com/system-modeler/)
 
 ## 🌎 Community Add-ons
@@ -36,7 +37,7 @@ Find full documentation, courses and more:
 
 ## 👋 Connect with Wolfram
 
-<a href="https://www.linkedin.com/company/wolfram-research/"><img src="https://www.wolfram.com/connect/img/linkedin.png" alt="Wolfram Research on LinkedIn" width="40" height="40"></a> &ensp; <a href="https://www.facebook.com/wolframresearch"><img src="https://www.wolfram.com/connect/img/facebook.png" alt="Wolfram Research on Facebook" width="40" height="40"></a> &ensp; <a href="https://x.com/WolframResearch"><img src="https://www.wolfram.com/connect/img/x.png" alt="Wolfram Research on X" width="40" height="40"></a>
+<a href="https://www.linkedin.com/company/wolfram-research/"><img src="https://www.wolfram.com/connect/img/linkedin.png" alt="Wolfram Research on LinkedIn" width="40" height="40"></a> &nbsp; <a href="https://www.facebook.com/wolframresearch"><img src="https://www.wolfram.com/connect/img/facebook.png" alt="Wolfram Research on Facebook" width="40" height="40"></a> &nbsp; <a href="https://x.com/WolframResearch"><img src="https://www.wolfram.com/connect/img/x.png" alt="Wolfram Research on X" width="40" height="40"></a>
 
 
 [More ways to connect](https://www.wolfram.com/connect/)

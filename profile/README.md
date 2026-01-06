@@ -1,4 +1,4 @@
-<p align="center"><img src="https://content.wolfram.com/sites/10/2019/04/wolfram-corporate-logo-horz-lg.png" alt="Wolfram logo" width="500" height="122"></p>
+<p align="center"><img src="wolfram-logo.svg" alt="Wolfram logo" width="500" height="122"></p>
 
 # 🚀 About Wolfram
 
